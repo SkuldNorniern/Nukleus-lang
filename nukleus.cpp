@@ -65,9 +65,9 @@ static int gettok(){
 }
 
 
-int main(){
+/*int main(){
   while(1){
     int tok = gettok();
     std::cout <<"got token: "<< tok << std::endl;
   }
-}
+}*/
